@@ -1,4 +1,5 @@
-![1695679559295](https://github.com/mscharan-analytics/mscharan-analytics/assets/140626070/08683335-3df1-4ae1-839a-8848b8bd15f0)
+![1695679559295](https://github.com/mscharan-analytics/mscharan-analytics/assets/140626070/0e483cde-7ab0-49f3-9e52-ab76d33faf77)
+
 <h1 align="center">Hi 👋, I'm Sricharan Mahavadi</h1>
 <h3 align="center">A passionate Analytics professional pursuing Masters Degree @Boston University</h3>
 <div align="center">
