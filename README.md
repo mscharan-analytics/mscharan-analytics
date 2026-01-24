@@ -2,17 +2,13 @@
 
 <div align="center">
   <h1 align="center">Sricharan Mahavadi</h1>
-  <h3 align="center">🚀 Data Engineer | AI Engineering & Analytics Consulting</h3>
+  <h3 align="center">🚀 Data Engineer | AI Engineering & Embedded AI Enthusiast</h3>
   <h4 align="center"><i>Transforming Commercial Insights into Production-Grade AI Solutions</i></h4>
   <br/>
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/smahavadi)
-  [![Medium](https://img.shields.io/badge/Medium-Read_Articles-black?style=for-the-badge&logo=medium)](https://medium.com/@mscharan2004)
-  [![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail)](mailto:mscharan@bu.edu)
-  
   <br/>
   <br/>
-  <img src="https://github.com/mscharan-analytics/mscharan-analytics/assets/140626070/29241f01-4064-4403-bdc1-e6a6740e6f7f" alt="Coding" width="450" />
+  <img src="https://github.com/mscharan-analytics/mscharan-analytics/assets/140626070/29241f01-4064-4403-bdc1-e6a6740e6f7f" alt="Coding" width="800" />
 </div>
 
 <p align="center"> 
@@ -25,10 +21,12 @@
 
 <div align="center">
   <h2>🌟 About Me</h2>
-  <p width="600px">
-    I am a <b>Masters Student in Business Analytics at Boston University</b> with 4+ years of rigorous experience in Data Engineering and Commercial Analytics. 
+  <p width="700px">
+    <b>🙏 Greetings! I'm Sricharan.</b>
+    <br/>
+    I am a <b>Masters Candidate in Business Analytics at Boston University</b> with 4+ years of experience architecting multi-million dollar data pipelines.
     <br/><br/>
-    Currently, I am pivoting my deep technical expertise towards <b>AI Engineering</b>, with a specific passion for <b>Embedded AI</b> and <b>Retrieval-Augmented Generation (RAG)</b> systems. My goal is to bridge the gap between massive-scale data pipelines and efficient, on-device intelligence.
+    My expertise lies in <b>Commercial Analytics</b> and <b>Data Engineering</b>, but my passion is driving the future of <b>AI Engineering</b>. I am actively working on bridging the gap between massive-scale data systems (Snowflake/Spark) and efficient, <b>Embedded AI</b> solutions. I build systems that don't just process data—they understand it.
   </p>
 </div>
 
@@ -68,7 +66,7 @@
       <br>C++
     </td>
     <td align="center" width="90">
-      <img src="https://kwilson.io/img/snowflake-logo.png" alt="icon" width="55" height="55" />
+      <img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" alt="icon" width="55" height="55" />
       <br>Snowflake
     </td>
     <td align="center" width="90">
@@ -114,8 +112,10 @@
       <br>Git
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="55" height="55" />
-      <br>FastAPI
+      <a href="https://credentials.databricks.com/">
+        <img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" alt="icon" width="55" height="55" />
+      </a>
+      <br>Databricks<br>(Certified)
     </td>
   </tr>
 </table>
@@ -162,6 +162,20 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mscharan-analytics&show_icons=true&locale=en&theme=tokyonight" alt="mscharan-analytics" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mscharan-analytics&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="mscharan-analytics" />
+</div>
+
+<br/>
+
+### 🌐 Connect with me
+
+<div align="center">
+  <a href="https://linkedin.com/in/smahavadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="smahavadi" height="40" width="50" /></a>
+  <a href="https://kaggle.com/sricharanmahavadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sricharanmahavadi" height="40" width="50" /></a>
+  <a href="https://instagram.com/ingenious_charan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ingenious_charan" height="40" width="50" /></a>
+  <a href="https://medium.com/@mscharan2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mscharan2004" height="40" width="50" /></a>
+  <a href="https://www.youtube.com/c/mr.ingenious1177" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mr.ingenious1177" height="40" width="50" /></a>
+  <a href="https://www.hackerrank.com/mscharan1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mscharan1" height="40" width="50" /></a>
+  <a href="mailto:mscharan@bu.edu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="mscharan@bu.edu" height="40" width="50" /></a>
 </div>
 
 <br/>
