@@ -2,7 +2,7 @@
 
 <div align="center">
   <h1 align="center">Sricharan Mahavadi</h1>
-  <h3 align="center">🚀 Data Engineer | AI Engineering &  AI Enthusiast</h3>
+  <h3 align="center">🚀 Data Engineer | Analytics Engineering &  AI Enthusiast</h3>
   <h4 align="center"><i>Transforming Commercial Insights into Production-Grade AI Solutions</i></h4>
   <br/>
   
